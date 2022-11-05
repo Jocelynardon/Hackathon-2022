@@ -12,3 +12,17 @@ C:\Users\jocel\Documents\GitHub\Hackathon-2022\Hackathon2022\obj\Debug\netcoreap
 C:\Users\jocel\Documents\GitHub\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.dll
 C:\Users\jocel\Documents\GitHub\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.pdb
 C:\Users\jocel\Documents\GitHub\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.genruntimeconfig.cache
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.exe
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.deps.json
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.runtimeconfig.json
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.runtimeconfig.dev.json
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.dll
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\bin\Debug\netcoreapp3.1\Hackathon2022.pdb
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.csproj.AssemblyReference.cache
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.AssemblyInfoInputs.cache
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.AssemblyInfo.cs
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.csproj.CoreCompileInputs.cache
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.dll
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.pdb
+C:\Users\brazi\Source\Repos\Hackathon-2022\Hackathon2022\obj\Debug\netcoreapp3.1\Hackathon2022.genruntimeconfig.cache
