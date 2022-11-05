@@ -152,6 +152,7 @@ namespace Hackathon2022
             int contadorCaracteres = 0;
             for (int i = 0; i < texto.Count; i++) /* Lista de lineas*/
             {
+                contadorCaracteres = 0;
                 for (int j = 0; j < texto[i].Length; j++) /* cadena */
                 {
                     bool vacio = string.IsNullOrWhiteSpace(texto[i][j].ToString());
