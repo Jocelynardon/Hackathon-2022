@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Hackathon2022
 {
@@ -13,7 +14,7 @@ namespace Hackathon2022
             string cadena2 = Console.ReadLine().ToLower();
             if (cadena1.Length == cadena2.Length)
             {
-                bool desordenado= cadenaDesordenada(cadena1, cadena2);
+                bool desordenado = cadenaDesordenada(cadena1, cadena2);
                 if (desordenado)
                 {
                     Console.WriteLine("La primera cadena es una cadena " +
@@ -29,8 +30,26 @@ namespace Hackathon2022
             {
                 Console.WriteLine("Las cadenas no tienen la misma longitud");
             }
-        }
 
+            Console.WriteLine("Ingrese Texto por líneas presionando la tecla Enter. " +
+                "Cuando termine, ingrese el caracter $ en una línea independiente");
+            List<string> texto = new List<string>();
+            string linea = "";
+            while (linea != "$")
+            {
+                linea = Console.ReadLine();
+                if (linea.Length > 40)
+                {
+                    Console.WriteLine("La linea escrita excede el máximo " +
+                        "de caracteres");
+                }
+                else
+                {
+                    texto.Add(linea);
+                }
+            }
+            justificarTexto(texto);
+        }
         public static bool cadenaDesordenada(string cadena1, string cadena2)
         {
             bool encontrado = false;
@@ -42,7 +61,7 @@ namespace Hackathon2022
                 {
                     if (cadena1[i] == cadena2[j])
                     {
-                        temp = cadena2.Remove(j,1);
+                        temp = cadena2.Remove(j, 1);
                         encontrado = true;
                         break;
                     }
@@ -54,6 +73,16 @@ namespace Hackathon2022
                 cadena2 = temp;
             }
             return true;
-        }  
+        }
+        public static List<string> justificarTexto(List<string> texto)
+        {
+            List<string> justificado = new List<string>();
+            int contadorCaracteres = 0;
+            for (int i = 0; i < texto.Count; i++)
+            {
+                
+            }
+            return justificado;
+        }
     }
 }
