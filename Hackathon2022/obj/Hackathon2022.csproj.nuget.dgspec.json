@@ -18,6 +18,20 @@
         ],
         "configFilePaths": [
           "C:\\Users\\brazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+    "C:\\Users\\jocel\\Documents\\GitHub\\Hackathon-2022\\Hackathon2022\\Hackathon2022.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jocel\\Documents\\GitHub\\Hackathon-2022\\Hackathon2022\\Hackathon2022.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jocel\\Documents\\GitHub\\Hackathon-2022\\Hackathon2022\\Hackathon2022.csproj",
+        "projectName": "Hackathon2022",
+        "projectPath": "C:\\Users\\jocel\\Documents\\GitHub\\Hackathon-2022\\Hackathon2022\\Hackathon2022.csproj",
+        "packagesPath": "C:\\Users\\jocel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jocel\\Documents\\GitHub\\Hackathon-2022\\Hackathon2022\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jocel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +64,7 @@
             "net472",
             "net48",
             "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,6 +74,7 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
